@@ -1,0 +1,5 @@
+RUN_CONF = 1 
+RUN_TEST = 2
+RUN_CLEAN = 4
+
+RUN_ALL = 7

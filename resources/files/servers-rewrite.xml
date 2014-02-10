@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<server>
+		<HTTP_HOST>192.168.101.10:80</HTTP_HOST>
+		<HTTP_ACCEPT_ENCODING>identity</HTTP_ACCEPT_ENCODING>
+		<SERVER_NAME name="beebackends">192.168.101.10</SERVER_NAME>
+	</server>
+</data>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<suite name="test-conf" needauth="true">
+
+	<test name="doConf">
+		<clientRequest protocol="HTTPS" method="POST" uriPath="/webservices/">
+			<var name="api" value="common_appliance_manage"/>
+			<var name="function" value="list"/>
+			<var name="dev" value="1"/>
+			<var name="tokenId" value="__TOKEN_ID__"/>
+		</clientRequest>
+		<responseChecks>
+			<failIfNoMatch xpath="/response/@status" regexp="^1$"/>
+			<failIfNoMatch xpath="//appliance[@name=&quot;Management&quot;]/@uid" varName="__MASTER_APPLIANCE_UID__"/>
+			<failIfNoMatch xpath="//appliance[@name=&quot;Slave1&quot;]/@uid" varName="__SLAVE1_APPLIANCE_UID__"/>
+			<failIfNoMatch xpath="//appliance[@name=&quot;Slave2&quot;]/@uid" varName="__SLAVE2_APPLIANCE_UID__"/>
+		</responseChecks>
+	</test>
+
+</suite>

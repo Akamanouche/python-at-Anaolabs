@@ -1,0 +1,28 @@
+
+===============================
+TIPS & TRICKS sur PyDev
+===============================
+
+# Liens
+-------
+	# PyDev
+		> http://pydev.org/
+
+# Contenu
+---------
+
+	1) Problemes d'identation ?
+	
+
+---------------------------
+1) Problemes d'identation ?
+---------------------------
+
+	ex: shadow white spaces, ...
+
+	> http://stackoverflow.com/questions/8634700/python-indentationerror-unexpected-indent
+		
+	Commandes:
+		> python -tt myscript.py
+		> cat -A myscript.py
+		> expand -t 4 myscript.py > fixed_myscript.py
