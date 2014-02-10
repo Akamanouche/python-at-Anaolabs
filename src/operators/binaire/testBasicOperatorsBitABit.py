@@ -4,7 +4,7 @@ ici, on teste en Python les "operateurs bit-a-bit"
     - '|' : le OU inclusif
     - '&' : le ET
 
-@author: sylvain
+@author: akamanouche
 '''
 
 print "Operateur: OU inclusif" 

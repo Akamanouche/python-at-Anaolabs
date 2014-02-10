@@ -1,7 +1,7 @@
 '''
 Created on Jun 1, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 
 class DummyObject(object):

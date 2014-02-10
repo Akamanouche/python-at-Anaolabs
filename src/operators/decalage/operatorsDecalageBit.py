@@ -1,7 +1,7 @@
 '''
 ici, on teste en Python le decalage de bits a gauche ou a droite
 
-@author: sylvain
+@author: akamanouche
 '''
 
 print "1 << 0 (pas de decalage): "+ str(1<<0)

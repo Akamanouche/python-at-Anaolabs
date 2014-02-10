@@ -1,7 +1,7 @@
 '''
 Created on Jun 3, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 from lxml import etree
 from StringIO import StringIO

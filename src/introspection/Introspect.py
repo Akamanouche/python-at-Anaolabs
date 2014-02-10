@@ -1,7 +1,7 @@
 '''
 Created on May 12, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 
 class Introspector(object):

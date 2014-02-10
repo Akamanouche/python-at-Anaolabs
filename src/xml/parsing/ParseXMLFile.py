@@ -1,12 +1,12 @@
 '''
 Created on Jun 4, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 '''
 Created on Jun 4, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 import os
 import sys
@@ -14,7 +14,7 @@ from lxml import etree
 
 
 
-baseDir = "/home/sylvain/eclipse_workspaces/galileo-3.5-alternate/ZONE-PYTHON/resources/xml/parsing"
+baseDir = "/home/akamanouche/eclipse_workspaces/galileo-3.5-alternate/ZONE-PYTHON/resources/xml/parsing"
 
 filepath = os.path.join(baseDir,"suite.xml")
 print "filepath: ",filepath 

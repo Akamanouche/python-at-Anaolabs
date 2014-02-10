@@ -11,7 +11,7 @@
 
 		[...]
 		Traceback (most recent call last):
-		  File "/home/sylvain/eclipse_workspaces/galileo-3.5-alternate/ZONE-PYTHON/src/exceptions/HanlingXMLException.py", line 7, in <module>
+		  File "/home/akamanouche/eclipse_workspaces/galileo-3.5-alternate/ZONE-PYTHON/src/exceptions/HanlingXMLException.py", line 7, in <module>
 		    from lxml import etree
 		  File "parsertarget.pxi", line 4, in init lxml.etree (src/lxml/lxml.etree.c:141775)
 		  File "/usr/lib/python2.6/inspect.py", line 42, in <module>

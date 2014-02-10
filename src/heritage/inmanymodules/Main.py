@@ -1,7 +1,7 @@
 '''
 Created on May 21, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 from heritage.inmanymodules import Atome
 

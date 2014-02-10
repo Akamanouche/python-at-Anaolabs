@@ -1,7 +1,7 @@
 '''
 Created on May 31, 2010
 
-@author: sylvain
+@author: akamanouche
 
 Objet :
 -------

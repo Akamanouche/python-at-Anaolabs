@@ -1,7 +1,7 @@
 '''
 Created on May 20, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 
 from operators.binaire import settings

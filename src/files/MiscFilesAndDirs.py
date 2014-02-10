@@ -1,7 +1,7 @@
 '''
 Created on Jun 4, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 import os
 import sys
@@ -12,7 +12,7 @@ from lxml import etree
 
 __BUILTIN_NAME_SERVER__ = "beebackends"
 
-baseDir = "/home/sylvain/eclipse_workspaces/galileo-3.5-alternate/ZONE-PYTHON/resources/files"
+baseDir = "/home/akamanouche/eclipse_workspaces/galileo-3.5-alternate/ZONE-PYTHON/resources/files"
 
 print "*** os.curdir ?: ",os.curdir
 print "*** os.getcwd() ?: ",os.getcwd()

@@ -1,7 +1,7 @@
 '''
 Created on May 20, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 
 print '%(language)s has %(#)03d quote types.' % {'language': "Python", "#": 2}

@@ -1,7 +1,7 @@
 '''
 Created on May 21, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 class Atome:
     """atomes simplifies, choisis parmi les 10 premiers elements du TP""" 

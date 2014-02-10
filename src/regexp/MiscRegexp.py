@@ -1,7 +1,7 @@
 '''
 Created on Jun 3, 2010
 
-@author: sylvain
+@author: akamanouche
 '''
 import re
 
