@@ -55,6 +55,8 @@ class beeShell(cmd.Cmd):
     def help_qqch(self):
         print "Ceci est l'aide pour la commande 'qqch'..."
 
+    def help_bonjour(self):
+        print "Ceci est l'aide pour la commande 'bonjour'..."
 
 #
 # Main function
